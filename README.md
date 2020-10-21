@@ -1,3 +1,13 @@
+FROM THE DEVELOPER:
+
+This application was completed using pure, vanilla Javascript as instructed.
+All work was written in the index.js file.
+The index.html file has been left completely unaltered from the original homework file.
+
+View this application in the browser
+by running 'open index.html' in the source directory terminal
+
+
 # Hhbuilder
 
 Your application needs a way to capture information about a household applying
